@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /forms/
+Disallow: /assets/vendor/
+
+Sitemap: https://merchandise-kantor.vercel.app/sitemap.xml
