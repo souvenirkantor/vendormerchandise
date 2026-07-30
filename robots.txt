@@ -3,4 +3,4 @@ Allow: /
 Disallow: /forms/
 Disallow: /assets/vendor/
 
-Sitemap: https://merchandise-kantor.vercel.app/sitemap.xml
+Sitemap: https://vendormerchandise.web.id/sitemap.xml

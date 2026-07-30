@@ -2,84 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://merchandise-kantor.vercel.app/</loc>
+    <loc>https://vendormerchandise.web.id/</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://merchandise-kantor.vercel.app/about</loc>
+    <loc>https://vendormerchandise.web.id/about</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://merchandise-kantor.vercel.app/all-product</loc>
+    <loc>https://vendormerchandise.web.id/produk</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://merchandise-kantor.vercel.app/merchandise-kantor-premium</loc>
+    <loc>https://vendormerchandise.web.id/product#premium</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://merchandise-kantor.vercel.app/merchandise-onboarding-karyawan</loc>
+    <loc>https://vendormerchandise.web.id/produk#onboarding</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://merchandise-kantor.vercel.app/merchandise-custom-logo</loc>
+    <loc>https://vendormerchandise.web.id/produk#custom</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://merchandise-kantor.vercel.app/blog</loc>
+    <loc>https://vendormerchandise.web.id/blog</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://merchandise-kantor.vercel.app/gallery</loc>
+    <loc>https://vendormerchandise.web.id/gallery</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://merchandise-kantor.vercel.app/contact</loc>
+    <loc>https://vendormerchandise.web.id/contact</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://merchandise-kantor.vercel.app/faq</loc>
-    <lastmod>2026-07-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://merchandise-kantor.vercel.app/blog-details</loc>
+    <loc>https://vendormerchandise.web.id/merchandise-kantor-logo-custom-identitas-perusahaan</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://merchandise-kantor.vercel.app/product-details</loc>
+    <loc>https://vendormerchandise.web.id/merchandise-kantor-premium</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
