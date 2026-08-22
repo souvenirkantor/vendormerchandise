@@ -7944,6 +7944,15 @@ section,
 }
 
 /* Sidebar */
+@media (min-width: 992px) {
+  .article-sidebar {
+    position: sticky;
+    top: 100px;
+    align-self: start;
+    z-index: 10;
+  }
+}
+
 .sidebar-author-card {
   background: var(--surface-color);
   border-radius: 14px;
