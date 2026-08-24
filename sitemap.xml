@@ -44,10 +44,10 @@
   </url>
 
   <url>
-    <loc>https://vendormerchandise.web.id/blog</loc>
-    <lastmod>2026-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://vendormerchandise.web.id/blog.html</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
   </url>
 
   <url>
@@ -403,6 +403,34 @@
   <url>
     <loc>https://vendormerchandise.web.id/ide-merchandise-untuk-klien-momen-bisnis.html</loc>
     <lastmod>2026-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://vendormerchandise.web.id/corporate-gift-custom-klien-karyawan.html</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://vendormerchandise.web.id/corporate-gift-set-perusahaan-relasi.html</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://vendormerchandise.web.id/gift-set-perusahaan-klien-karyawan.html</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://vendormerchandise.web.id/executive-gift-premium-direksi-klien.html</loc>
+    <lastmod>2026-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
