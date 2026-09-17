@@ -1,6 +1,45 @@
+# =================================================================
+# ROBOTS.TXT - Merchandise Kantor (https://vendormerchandise.web.id)
+# =================================================================
+
+# Global Crawl Rules for All Search Engines
 User-agent: *
 Allow: /
 Disallow: /forms/
 Disallow: /assets/vendor/
+Disallow: /scratch/
+Disallow: /*.json$
+Disallow: /*.cgi$
+Disallow: /*.php$
 
+# Image Crawling Rules
+User-agent: Googlebot-Image
+Allow: /assets/img/
+
+User-agent: Bingbot-Image
+Allow: /assets/img/
+
+# Allow AI Search & LLM Crawlers (ChatGPT, Claude, Perplexity, Gemini)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Host & Sitemap Declaration
+Host: https://vendormerchandise.web.id
 Sitemap: https://vendormerchandise.web.id/sitemap.xml
+
+# LLM Agent Index: https://vendormerchandise.web.id/llms.txt
